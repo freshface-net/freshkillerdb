@@ -9,11 +9,11 @@ Database Structure
 Format
 ------
 
-domain.tld (no http or www!)
-email@email.tld
+    domain.tld (no http or www!)
+    email@email.tld
 
 Example
 -------
 
-rapidshare.com
-abuse@rapidshare.com
+    rapidshare.com
+    abuse@rapidshare.com
