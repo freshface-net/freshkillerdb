@@ -64,8 +64,6 @@ sharecash.org
 admin@sharecash.org
 zippyshare.com
 abuse@zippyshare.com
-filesonic.com
-dmca@filesonic.com
 uploadstation.com
 dmca@uploadstation.com
 mirrorcreator.com
