@@ -130,3 +130,5 @@ secureupload.eu
 abuse@secureupload.eu
 1fichier.com
 abuse@1fichier.com
+dmca@Dizzcloud.com
+dmca@uptoFile.com
