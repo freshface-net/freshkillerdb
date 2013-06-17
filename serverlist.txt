@@ -706,3 +706,5 @@ zshare.net
 abuse@zshare.net
 gaaks.com
 admin@gaaks.com
+dmca@Dizzcloud.com
+dmca@uptoFile.com
