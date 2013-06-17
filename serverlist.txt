@@ -704,3 +704,5 @@ zippyshare.com
 abuse@zippyshare.com
 zshare.net
 abuse@zshare.net
+gaaks.com
+admin@gaaks.com
