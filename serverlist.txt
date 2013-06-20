@@ -710,3 +710,5 @@ dizzcloud.com
 dmca@dizzcloud.com
 uptofile.com
 dmca@uptofile.com
+dfiles.eu
+dmca@depositfiles.com
