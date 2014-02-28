@@ -588,8 +588,6 @@ sharingcentre.net
 dmca@sharingcentre.net
 sinhvienit.net
 abuse@vnn.vn
-solidfiles.com
-legal@solidfiles.com
 softarchive.net
 abuse@softarchive.net
 soft29.ir
@@ -750,3 +748,5 @@ gigamirror.com
 gigaMirror@yahoo.com
 solidfiles.com
 copyright@solidfiles.com
+mirrorstack.com
+abuse@mirrorstack.com
