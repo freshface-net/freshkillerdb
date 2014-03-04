@@ -663,7 +663,7 @@ dmca@uploadstation.com
 unibytes.com
 support@unibytes.com
 uptobox.com
-uptobox.abuse@gmail.com
+legalops@box.com
 usaupload.net
 abuse@usaupload.net
 verzend.be
@@ -750,3 +750,11 @@ solidfiles.com
 copyright@solidfiles.com
 mirrorstack.com
 abuse@mirrorstack.com
+cramit.in
+dmca@cramit.in
+muchshare.net
+admin@muchshare.net
+ortofiles.com
+dmca@ortofiles.com
+firedrive.com
+designatedagent@firedrive.com
