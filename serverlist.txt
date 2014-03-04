@@ -588,8 +588,6 @@ sharingcentre.net
 dmca@sharingcentre.net
 sinhvienit.net
 abuse@vnn.vn
-solidfiles.com
-legal@solidfiles.com
 softarchive.net
 abuse@softarchive.net
 soft29.ir
@@ -665,7 +663,7 @@ dmca@uploadstation.com
 unibytes.com
 support@unibytes.com
 uptobox.com
-uptobox.abuse@gmail.com
+legalops@box.com
 usaupload.net
 abuse@usaupload.net
 verzend.be
@@ -750,3 +748,13 @@ gigamirror.com
 gigaMirror@yahoo.com
 solidfiles.com
 copyright@solidfiles.com
+mirrorstack.com
+abuse@mirrorstack.com
+cramit.in
+dmca@cramit.in
+muchshare.net
+admin@muchshare.net
+ortofiles.com
+dmca@ortofiles.com
+firedrive.com
+designatedagent@firedrive.com
