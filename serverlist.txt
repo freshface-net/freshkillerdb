@@ -750,3 +750,5 @@ solidfiles.com
 copyright@solidfiles.com
 mirrorstack.com
 abuse@mirrorstack.com
+cramit.in
+dmca@cramit.in
