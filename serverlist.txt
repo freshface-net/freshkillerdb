@@ -752,3 +752,7 @@ mirrorstack.com
 abuse@mirrorstack.com
 cramit.in
 dmca@cramit.in
+muchshare.net
+admin@muchshare.net
+ortofiles.com
+dmca@ortofiles.com
