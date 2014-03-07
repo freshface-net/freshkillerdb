@@ -192,6 +192,8 @@ filejungle.com
 dmca@filejungle.com
 filemsg.com
 abuse@godaddy.com
+fileom.com
+abuse@fileom.com
 filepost.com
 abuse@filepost.com
 fileprohost.com
@@ -356,6 +358,10 @@ jumbofiles.com
 abuse@jumbofiles.com
 jumbofiles.org
 dmca@jumbofiles.org
+k2s.cc
+abuse@Keep2Share.cc
+keep2share.cc
+abuse@Keep2Share.cc
 kickassgfx.net
 abuse@godaddy.com
 kiwi6.com
