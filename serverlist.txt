@@ -7,7 +7,7 @@ abuse@1fichier.com
 1st-files.com
 dmca@1st-files.com
 2shared.com
-support@2shared.com
+abuse@2shared.com
 4fastfile.com
 abuse@4fastfile.com
 4shared.com
@@ -766,3 +766,5 @@ firedrive.com
 designatedagent@firedrive.com
 mijnbestand.nl
 helpdesk@mijnbestand.nl
+datafilehost.com
+abuse@datafilehost.com
