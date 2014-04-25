@@ -766,3 +766,5 @@ firedrive.com
 designatedagent@firedrive.com
 dfiles.eu
 abuse@depositfiles.com
+gigapeta.com
+forabuse@gigapeta.com
