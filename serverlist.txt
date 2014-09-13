@@ -470,8 +470,8 @@ nosupload.com
 dmca@files.nosupload.com
 novafile.com
 abuse@novafile.com
-nowdownload.eu
-contact@nowdownload.eu
+nowdownload.ch
+contact@nowdownload.ch
 ngsfile.com
 abuse@ovh.net
 nulled.cc
@@ -796,3 +796,9 @@ king_mokhtar2002@yahoo.com
 contact@180upload.com
 10shared.com
 support@10shared.com
+youtube.com
+copyright@youtube.com
+loudupload.com
+loudupload.com@gmail.com
+uplooad.net
+dmca@Uplooad.net
