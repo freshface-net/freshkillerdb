@@ -870,3 +870,11 @@ files.com
 legal@files.com
 oboom.com
 abuse@oboom.com
+vip-file.com
+as@vip-file.com
+nitroflare.com
+support@nitroflare.com
+novafile.com
+support@novafile.com
+koofile.com
+support@koofile.com
