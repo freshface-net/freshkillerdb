@@ -878,3 +878,5 @@ novafile.com
 support@novafile.com
 koofile.com
 support@koofile.com
+shareae.com
+shareae.com@gmail.com
