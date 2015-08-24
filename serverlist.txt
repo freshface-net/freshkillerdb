@@ -190,6 +190,8 @@ filegig.com
 abuse@ovh.net
 filejungle.com
 dmca@filejungle.com
+filemoney.com
+support@filemoney.com
 filemsg.com
 abuse@godaddy.com
 fileom.com
@@ -202,6 +204,8 @@ filerio.in
 dmca@filerio.com
 filerio.com
 dmca@filerio.com
+filerock.net
+filerock.net@gmail.com
 filerose.com
 abusefiles@filerose.com
 files.to
@@ -284,6 +288,8 @@ gaaks.com
 abuse@webparadise.ws
 gbitfiles.com
 abuse@choopa.com
+gboxes.com
+info@gboxes.com
 gamefront.com
 abuse@filefront.com
 ge.tt
@@ -634,6 +640,10 @@ ul.to
 abuse@uploaded.to
 ultrashare.net
 abuse@ultrashare.net
+unlimitzone.com
+abuse@unlimitzone.com
+up09.com
+support@up09.com
 up4vn.com
 abuse@up4vn.com
 up-file.com
@@ -880,3 +890,5 @@ koofile.com
 support@koofile.com
 shareae.com
 shareae.com@gmail.com
+rockfile.eu
+abuse@leaseweb.com
