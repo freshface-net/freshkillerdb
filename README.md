@@ -1,7 +1,7 @@
 freshkillerdb
 =============
 
-Server Database for FreshKiller app
+New and revised Server Database for FreshKiller
 
 Database Structure
 ==================
