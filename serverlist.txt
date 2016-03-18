@@ -898,3 +898,9 @@ gfile.ro
 support@gfile.ro
 filehost.ro
 abuse@filehost.ro
+yfile.co.il
+forms@myfile.co.il
+upfile.co.il
+abuse@upfile.co.il
+dropboxusercontent.com
+copyright@dropbox.com
