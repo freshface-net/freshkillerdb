@@ -904,3 +904,5 @@ upfile.co.il
 abuse@upfile.co.il
 dropboxusercontent.com
 copyright@dropbox.com
+jeodrive.com
+abuse@jeodrive.com
